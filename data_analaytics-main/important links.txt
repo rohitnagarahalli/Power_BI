@@ -1,0 +1,15 @@
+install postgreSQL
+
+https://www.postgresql.org/download/
+
+
+Download pentaho
+
+https://sourceforge.net/projects/pentaho/
+
+
+java
+
+https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html
+
+
